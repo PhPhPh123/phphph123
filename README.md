@@ -1,4 +1,5 @@
-# pihpipih123
-
-* 123
-* 123
+-   :video_game: Hello! I'am roleplay game-master
+-   :snake: Interested in **python**
+-   :books: I'm currently studying **data analytics** to get more statistics in games
+-   :new_moon: I want to learn **lua**
+-   :hammer: my heart is forever with warhammer40k
