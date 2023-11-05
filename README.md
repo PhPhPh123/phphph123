@@ -5,7 +5,7 @@
 -   :new_moon: I want to learn **lua**
 -   :hammer: my heart is forever with warhammer40k
 
-## Technologies in my projects:
+## Technologies in my game projects:
 <img align="left" alt="HTML5" width="40px" src="python_icon.png"/>
 <img align="left" alt="HTML5" width="30px" src="sql_icon.png"/>
 <img align="left" alt="HTML5" width="29px" src="sqlite3_icon.png"/>
