@@ -1,9 +1,10 @@
 ## About me
--   :video_game: Hello! I'am roleplay game-master
--   :snake: Interested in **python**
+-   :video_game: Hello! This profile about my hobby - creation and playing tabletop roleplay games as dungeon-master
+-   :snake: Interested in **python** and use it in my game-projects
 -   :books: I'm currently studying **data analyze** to get more statistics in games
 -   :new_moon: I want to learn **lua**
--   :hammer: my heart is forever with warhammer40k
+-   :gun: my favorite settings is warhammer40k and S.T.A.L.K.E.R
+-   :eyes: all my games is not commercial. It just hobby
 
 ## Technologies in my game projects
 <img align="left" alt="python" width="40px" src="python_icon.png"/>
@@ -13,6 +14,7 @@
 <img align="left" alt="css3" width="40px" src="css3_icon.png"/>
 <img align="left" alt="postgres" width="41px" src="postgres_icon.png"/>
 <img align="left" alt="lua" width="43px" src="lua_icon.png"/>
+<br>
 
-
+## Other
 profile image created by (c) SlowpokeSempai
