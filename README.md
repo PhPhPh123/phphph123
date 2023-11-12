@@ -4,7 +4,7 @@
 -   :books: I'm currently studying **data analyze** to get more statistics in games
 -   :new_moon: I want to learn **lua**
 -   :gun: my favorite settings is warhammer40k and S.T.A.L.K.E.R
--   :eyes: all my games is not commercial. It just hobby
+-   :eyes: all my games is not commercial. Its just hobby
 
 ## Technologies in my game projects
 <img align="left" alt="python" width="40px" src="python_icon.png"/>
@@ -17,4 +17,4 @@
 <br>
 
 ## Other
-profile image created by (c) SlowpokeSempai
+profile and infobot images created by (c) SlowpokeSempai
