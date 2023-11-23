@@ -1,6 +1,6 @@
 ## About me
 -   :factory: Hello! This profile contains my hobby projects and data analyze projects
--   :video_game: i am roleplay game master and my hobby projects needed to make it easier to play tabletop games in online
+-   :video_game: I am a game-master of tabletop role-playing games and my hobby projects are needed to make them easier and interesteed
 -   :snake: Interested in **python** and use it in my game-projects
 -   :books: I'm currently studying **data analyze** to get more statistics in games
 -   :new_moon: I want to learn **lua**
