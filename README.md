@@ -1,7 +1,7 @@
 ## About me
 -   :factory: Hello! This profile contains my hobby projects and data analyze projects
--   :video_game: I am a game-master of tabletop role-playing games and my hobby projects are needed to make them easier
--   :snake: Interested in **python**. Especially python OOP. My favorite libraries is **pandas**, **matplotlib**, **jinja2**
+-   :video_game: I am a game-master of tabletop role-playing games and my hobby projects are needed to make them interesting
+-   :snake: Interested in **python**. Especially python OOP. My favorite libraries is **pandas**, **matplotlib**, **seaborn**, **jinja2**
 -   :clipboard: I really like **sql** and **databases**
 -   :books: I'm currently studying **data analyze** to get more statistics in games
 -   :new_moon: I want to learn **lua**
